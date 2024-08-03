@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question": "hello",
+      "answer": " hello again"
+    },
+    {
+      "question": "how are you?",
+      "answer": " i am doing great thanks for asking, how about you? "
+    },
+    {
+      "question": "i am doing great thanks too. Who are you?",
+      "answer": "My name is Magic Marie. I am an ChatBot learning to have conversations. How can i help you"
+    },
+    {
+      "question": "did we meet?",
+      "answer": " Maybe but if it is the case sorry about that"
+    },
+    {
+      "question": "bye",
+      "answer": "Bye"
+    }
+  ]
+}
